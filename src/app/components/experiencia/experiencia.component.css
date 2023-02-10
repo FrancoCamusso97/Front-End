@@ -1,0 +1,40 @@
+
+/* Seccion Experiencia */
+
+.contenedor-experiencia{
+    padding: 25px;
+    background: linear-gradient(90deg, rgb(75,192,200), rgb(199,121,208), rgb(254,172,94));
+}
+
+.titulo-experiencia{
+    font-family: 'Itim', cursive;
+    color: #f5f6f7;
+    text-shadow: 0 0 5px rgb(49, 3, 255), 0 0 15px rgb(4, 0, 255),0 0 30px rgb(0, 26, 255), 0 0 50px rgb(0, 4, 255);
+    color: white;
+
+}
+
+h2{
+    color: #f5f6f7;
+}
+
+.texto-laboral{
+     font-family: 'Itim', cursive;
+     font-size: large;
+     color: #f5f6f7;
+     
+}
+
+.texto-empresa{
+      font-family: 'Itim', cursive;
+      font-size: large;
+      color: #f5f6f7;
+}
+
+.seccion-laboral{
+    background-color:#f5f6f7
+}
+
+ul{
+    list-style: none;
+}

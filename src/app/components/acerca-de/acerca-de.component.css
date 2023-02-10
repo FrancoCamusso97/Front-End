@@ -1,0 +1,40 @@
+/* acerca de mi*/
+
+.seccion-acerca-de-mi {
+  padding: 40px 40px 60px 40px;
+  text-align: center;
+  display: block;
+}
+
+
+.imagen-perfil{
+    border-radius:  51px 51px 51px 51px;
+    border: 2px solid #f5f6f7;
+    box-shadow: 20px 10px 19px 0px rgba(0,0,0,0.75);
+}
+
+.acerca-de-mi{
+    font-family: 'Itim', cursive;
+    font-size: 30px;
+}
+
+.title-name{
+    
+    font-family: 'Itim', cursive;
+    font-size: 30px;
+}
+
+.titulo-fst{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+}
+
+.texto-acerca{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+}
+
+.seccion-oscura{
+    background-color:deepskyblue;
+    color: #f5f6f7;
+}

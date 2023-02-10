@@ -1,0 +1,29 @@
+/* Seccion Educacion */
+
+.seccion-educacion{
+    background: linear-gradient(90deg, rgb(75,192,200), rgb(199,121,208), rgb(254,172,94));
+    color: #f5f6f7;
+}
+
+.titulo-educacion{
+    font-family: 'Itim', cursive;
+    color: #f5f6f7;
+    text-shadow: 0 0 5px rgb(0, 255, 13), 0 0 15px rgb(0, 255, 64),0 0 30px rgb(0, 255, 76), 0 0 50px rgb(0, 255, 115);
+    color: white;
+}
+
+
+.neon{
+    font-family: 'Itim', cursive;
+    margin: 0;
+    font-size: 50px;
+    text-shadow: 0 0 5px red, 0 0 15px red,0 0 30px red, 0 0 50px red;
+    color: white;
+    
+}
+
+.contenedor-neon{
+   
+   background-color: none;
+
+}

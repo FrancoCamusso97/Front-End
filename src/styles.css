@@ -1,0 +1,46 @@
+/* Color body */
+body{
+  background: linear-gradient(90deg, rgb(75,192,200), rgb(199,121,208), rgb(254,172,94));
+
+}
+
+h1{
+    text-align: center;
+    font-family: 'Itim', cursive;
+    text-shadow: 0 0 5px rgb(52, 180, 219), 0 0 15px rgb(12, 104, 241),0 0 30px rgb(233, 243, 255), 0 0 50px rgb(17, 0, 255);
+    color: #f5f6f7;
+}
+
+hr{
+    border: 2px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
