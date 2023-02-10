@@ -1,0 +1,265 @@
+/* Color body */
+body{
+  background: linear-gradient(90deg, rgb(75,192,200), rgb(199,121,208), rgb(254,172,94));
+
+}
+
+h1{
+    text-align: center;
+    font-family: 'Itim', cursive;
+    text-shadow: 0 0 5px rgb(52, 180, 219), 0 0 15px rgb(12, 104, 241),0 0 30px rgb(233, 243, 255), 0 0 50px rgb(17, 0, 255);
+    color: #f5f6f7;
+}
+
+hr{
+    border: 2px solid white;
+}
+
+/* Navbar */
+nav.navbar{
+    background-color: #f5f6f7
+}
+
+.navbar-nav{
+    background-color: #f5f6f7;
+}
+
+.Logo_AP{
+    background-color: rgb(6,147,227,1);
+    border-radius: 10px;
+    /* width: 150px;
+    height: 80px; */
+}
+
+.bi-facebook{
+    color: rgb(6,147,227,1);
+    font-size: 3rem;
+}
+
+.bi-instagram{
+    color: #f30d80;
+    font-size: 3rem;
+}
+
+.bi-twitter{
+    color: rgb(6,147,227,1);
+    font-size: 3rem;
+}
+
+.bi-linkedin{
+    color: rgb(6,147,227,1);
+    font-size: 3rem;
+}
+
+.bi-github{
+    color: #333;
+    font-size: 3rem;
+}
+
+.btn{
+    margin-left: 50px;
+    align-items: center;
+}
+/* Portada hero */
+
+.img-portada{
+    align-items: center;
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: 420px;
+}
+
+#portada{
+    height: 400px;
+    margin-top: 5px;
+}
+
+
+/* seccion perfil*/
+
+.seccion-acerca-de-mi {
+  padding: 40px 40px 60px 40px;
+  text-align: center;
+  display: block;
+}
+
+
+.imagen-perfil{
+    border-radius:  51px 51px 51px 51px;
+    border: 2px solid #f5f6f7;
+    box-shadow: 20px 10px 19px 0px rgba(0,0,0,0.75);
+}
+
+.acerca-de-mi{
+    font-family: 'Itim', cursive;
+    font-size: 30px;
+}
+
+.title-name{
+    
+    font-family: 'Itim', cursive;
+    font-size: 30px;
+}
+
+.titulo-fst{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+}
+
+.texto-acerca{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+}
+
+.seccion-oscura{
+    background-color:deepskyblue;
+    color: #f5f6f7;
+}
+
+/* Seccion Experiencia */
+
+.contenedor-experiencia{
+    padding: 25px;
+    background: linear-gradient(90deg, rgb(75,192,200), rgb(199,121,208), rgb(254,172,94));
+}
+
+.titulo-experiencia{
+    font-family: 'Itim', cursive;
+    color: #f5f6f7;
+    text-shadow: 0 0 5px rgb(49, 3, 255), 0 0 15px rgb(4, 0, 255),0 0 30px rgb(0, 26, 255), 0 0 50px rgb(0, 4, 255);
+    color: white;
+
+}
+
+h2{
+    color: #f5f6f7;
+}
+
+.texto-laboral{
+     font-family: 'Itim', cursive;
+     font-size: large;
+     color: #f5f6f7;
+     
+}
+
+.texto-empresa{
+      font-family: 'Itim', cursive;
+      font-size: large;
+      color: #f5f6f7;
+}
+
+.seccion-laboral{
+    background-color:#f5f6f7
+}
+
+ul{
+    list-style: none;
+}
+
+/* Seccion Educacion */
+
+.seccion-educacion{
+    background: linear-gradient(90deg, rgb(75,192,200), rgb(199,121,208), rgb(254,172,94));
+    color: #f5f6f7;
+}
+
+.titulo-educacion{
+    font-family: 'Itim', cursive;
+    color: #f5f6f7;
+    text-shadow: 0 0 5px rgb(0, 255, 13), 0 0 15px rgb(0, 255, 64),0 0 30px rgb(0, 255, 76), 0 0 50px rgb(0, 255, 115);
+    color: white;
+}
+
+
+.neon{
+    font-family: 'Itim', cursive;
+    margin: 0;
+    font-size: 50px;
+    text-shadow: 0 0 5px red, 0 0 15px red,0 0 30px red, 0 0 50px red;
+    color: white;
+    
+}
+
+.contenedor-neon{
+   
+   background-color: none;
+
+}
+
+/* seccion habilidades duras y blandas */
+
+.titulo-habilidades{
+    font-family: 'Itim', cursive;
+}
+
+.progress{
+    height: 30px;
+}
+
+
+/* Seccion Proyectos */
+
+.proyecto{
+    border-radius: 24px;
+    
+}
+
+.columna{
+    cursor: pointer;
+}
+
+.texto-proyecto{
+    font-family: 'Itim', cursive;
+    color: #f5f6f7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+ footer{
+    width: 100%;
+    padding: 20px 0px;
+}
+
+
+.box__copyright{
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+    padding: 0px 40px;
+}
+
+.box__copyright p{
+    margin-top: 20px;
+    color: black;
+}
+
+.box__copyright hr{
+    border: none;
+    height: 2px;
+    background-color: black;
+}
